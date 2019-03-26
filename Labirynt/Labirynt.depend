@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553623440 source:c:\users\dawid\desktop\www\labirynt\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
